@@ -1,5 +1,6 @@
 include:
   - .smbus
+  - .pip
 
 buttonshim:
   pip.installed:

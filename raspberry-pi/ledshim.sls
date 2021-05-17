@@ -1,5 +1,6 @@
 include:
   - .smbus
+  - .pip
 
 ledshim:
   pip.installed:
