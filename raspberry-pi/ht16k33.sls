@@ -5,4 +5,4 @@ adafruit-circuitpython-ht16k33:
   pip.installed:
     require:
       - pkg: python3-pip
-      - sls: i2c
+      - sls: raspberry-pi.i2c

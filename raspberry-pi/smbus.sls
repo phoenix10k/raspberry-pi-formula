@@ -4,4 +4,4 @@ include:
 python3-smbus:
   pkg.installed:
     require:
-      - sls: i2c
+      - sls: raspberry-pi.i2c
