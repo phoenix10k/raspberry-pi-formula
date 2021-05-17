@@ -3,6 +3,6 @@ include:
 
 buttonshim:
   pip.installed:
-    require:
+    - require:
       - pkg: python3-pip
       - sls: raspberry-pi.smbus
