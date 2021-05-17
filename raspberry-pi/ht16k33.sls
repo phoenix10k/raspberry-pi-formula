@@ -1,5 +1,5 @@
 include:
-  - i2c
+  - .i2c
 
 adafruit-circuitpython-ht16k33:
   pip.installed:

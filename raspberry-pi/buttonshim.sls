@@ -1,5 +1,5 @@
 include:
-  - smbus
+  - .smbus
 
 buttonshim:
   pip.installed:

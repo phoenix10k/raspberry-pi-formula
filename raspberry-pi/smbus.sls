@@ -1,5 +1,5 @@
 include:
-  - i2c
+  - .i2c
 
 python3-smbus:
   pkg.installed:

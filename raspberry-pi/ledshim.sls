@@ -1,5 +1,5 @@
 include:
-  - smbus
+  - .smbus
 
 ledshim:
   pip.installed:
